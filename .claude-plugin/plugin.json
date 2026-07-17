@@ -1,0 +1,6 @@
+{
+  "name": "ai-checkup",
+  "description": "AI 활용 건강검진 — Claude Code 사용 이력 기반 자가진단",
+  "version": "0.2.0",
+  "author": { "name": "jun" }
+}

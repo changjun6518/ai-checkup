@@ -1,0 +1,11 @@
+{
+  "name": "ai-checkup-marketplace",
+  "owner": { "name": "jun" },
+  "plugins": [
+    {
+      "name": "ai-checkup",
+      "source": "./",
+      "description": "AI 활용 건강검진 — Claude Code 사용 이력 기반 자가진단"
+    }
+  ]
+}
