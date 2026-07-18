@@ -27,7 +27,7 @@ Claude Code 아무 세션에서:
 ## 요구사항
 
 - Claude Code 설치 및 로그인
-- `python3` (macOS 기본 포함)
+- `python3` 또는 `node` 둘 중 하나 (macOS는 python3 기본 포함, npm으로 Claude Code를 설치했다면 node가 이미 있음)
 - 분석할 세션 이력 (세션 3개 미만이면 참고용 진단으로 표시됨)
 
 ## 개인정보
